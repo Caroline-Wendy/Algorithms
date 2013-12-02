@@ -8,7 +8,7 @@
 /*eclipse kepler, javase-1.7*/
 
 public class algorithms {
-	//最大公约数
+	//鏈�澶у叕绾︽暟
 	public static int gcd (int p, int q)
 	{
 		if (q == 0) return p;
