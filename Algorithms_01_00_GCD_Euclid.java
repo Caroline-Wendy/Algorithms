@@ -1,8 +1,8 @@
 /*
- * algorithms.java
+ * Algorithms.java
  *
  *  Created on: 2013.11.28
- *      Author: Spike
+ *      Author: Wendy
  */
 
 /*eclipse kepler, javase-1.7*/
