@@ -16,7 +16,7 @@ public class Test
 		int N = 5, i = 1;
 		int[] a = new int[N];
 		a[i] = 1234;
-		int[] b = a; //别名, 并没有新建b
+		int[] b = a; //鍒悕, 娌℃湁鏂板缓b
 		b[i] = 5678;
 		System.out.println("a[" + i + "] = " + a[i]);
 	}
